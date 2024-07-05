@@ -1,6 +1,6 @@
 # octo-system-lumo
 #repository for educational purp
-#luis monsalve law, political science and cybersecurity professional
+#luis monsalve mediation professional learning network science
 #this is a comment
 #each line is a file pattern fallowed by one or more owner
 #the repo. Unless a later match takes precedence,
