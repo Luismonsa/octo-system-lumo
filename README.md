@@ -6,3 +6,7 @@
 #the repo. Unless a later match takes precedence,
 #@hmd-inv-legal1 will be request
 #review when someone opens a pull request.
+#My first app in Create React App.
+#npx create-react-app my-app
+cd my-app
+npm start
